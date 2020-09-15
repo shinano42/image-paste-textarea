@@ -1,0 +1,17 @@
+{
+  "name": "image-paste-textarea",
+  "version": "1.0.0",
+  "description": "It 's a textarea that you can paste image to.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
